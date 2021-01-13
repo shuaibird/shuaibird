@@ -5,7 +5,7 @@
 - 👷 Senior developer at [Wiredcraft](https://wiredcraft.com/)
 - 👨‍🎓 Formal CS education from [Open Source Computer Science](https://github.com/ossu/computer-science)
 - 💻 Javascript / TypeScript / React / NodeJS / Java / C
-- 🛹 Skateboard / Snowboard / Inline Skate / Ice skating / Boxing
+- 🛹 Skateboard / Snowboard / Inline Skating / Ice skating / Boxing
 - 🎸 Guitar / Bass
 - 🎵 Hard rock / Funk / Disco / Jazz / Fusion / Blues
-- 🎮 Switch
+- 🎮 Nintendo Switch
