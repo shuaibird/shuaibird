@@ -7,6 +7,6 @@
 - 5️⃣ 5+ years of working experience
 - 💻 Javascript / TypeScript / React / NodeJS / Java / C
 - 🛹 Skateboard / Snowboard / Surfing / Inline Skating / Ice skating / Boxing
-- 🎸 Guitar / Bass
+- 🎸 Guitar / Bass <a target="_blank" href="https://www.instagram.com/shuaibird.guitar/"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 - 🎵 Hard rock / Funk / Disco / Jazz / Fusion / Blues
 - 🎮 Nintendo Switch
