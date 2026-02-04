@@ -2,11 +2,47 @@
 
 ### Yoo, I'm shuaibird 👋
 
-- 👷 Senior developer at [Wiredcraft](https://wiredcraft.com/)
-- 👨‍🎓 Formal CS education from [Open Source Computer Science](https://github.com/ossu/computer-science)
-- 5️⃣ 5+ years of working experience
-- 💻 Javascript / TypeScript / React / NodeJS / Java / C
-- 🛹 Skateboard / Snowboard / Surfing / Inline Skating / Ice skating / Boxing
-- 🎸 Guitar / Bass <a target="_blank" href="https://www.instagram.com/shuaibird.guitar/"><img alt="Instagram" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png" /></a> <a target="_blank" href="https://www.youtube.com/channel/UCSCiVxUJu25IFVZXIFqZPpg"><img alt="Youtube" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_2-youtube-512.png" /></a>
-- 🎵 Hard rock / Funk / Disco / Jazz / Fusion / Blues
-- 🎮 Nintendo Switch
+I'm a senior frontend engineer focused on building scalable, product-driven web systems — and currently exploring the world of **AI engineering**.
+
+Over the years, I’ve worked on production-grade platforms and digital products for global consumer, enterprise, and luxury brands, including **Starbucks, Prada, Nike, Adidas, Prada, Bulgari, Tiffany & Co., and Marriott**.
+
+---
+
+### What I do
+- 🧠 Build modern, high-quality web applications with a strong focus on **performance, UX, and long-term maintainability**
+- ⚛️ Work primarily with **React, TypeScript, and Next.js** on large-scale frontend systems
+- 🤖 Actively exploring **AI engineering**, including AI-assisted development workflows, LLM-based tooling, and how AI can augment product experiences and developer productivity
+- 🌍 Comfortable working across distributed, cross-cultural teams on real-world, high-impact products
+
+---
+
+### Tech I work with
+- 💻 **JavaScript / TypeScript**
+- ⚛️ **React / Next.js**
+- 🌐 Frontend architecture & web performance
+- 🧩 APIs, tooling, and pragmatic engineering workflows
+- 🐍 Python (for scripting, automation, and AI exploration)
+
+---
+
+### Background
+- 👨‍🎓 Self-driven CS foundation via [Open Source Computer Science](https://github.com/ossu/computer-science)
+- 🧭 8+ years of professional experience shipping real products
+
+---
+
+### Outside of coding
+- 🧗‍♂️ Bouldering / 🛹 Skateboarding / 🏄 Surfing
+- 🎲 Board games
+- 🎸 Guitar & Bass
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/shuaibird.guitar/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSCiVxUJu25IFVZXIFqZPpg)
+- 🎵 Hard rock / Funk / Jazz / Fusion / Blues
+
+---
+
+📍 Currently based in China, open to global opportunities, including the US.
+
+---
+
+> I enjoy building things at the intersection of engineering rigor, creativity, and real-world impact — and I’m especially interested in building at the intersection of frontend systems and AI.
