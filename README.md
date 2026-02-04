@@ -4,7 +4,7 @@
 
 I'm a senior frontend engineer focused on building scalable, product-driven web systems — and currently exploring the world of **AI engineering**.
 
-Over the years, I’ve worked on production-grade platforms and digital products for global consumer, enterprise, and luxury brands, including **Starbucks, Prada, Nike, Adidas, Prada, Bulgari, Tiffany & Co., and Marriott**.
+Over the years, I’ve worked on production-grade platforms and digital products for global consumer, enterprise, and luxury brands, including **Starbucks, Prada, Nike, Adidas, Prada, Burberry, Bulgari, Tiffany & Co., Hagerty and Marriott**.
 
 ---
 
