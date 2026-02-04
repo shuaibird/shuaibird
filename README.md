@@ -1,4 +1,4 @@
-[![shuaibird's GitHub stats](https://github-stats-extended.vercel.app/api?username=shuaibird)](https://github.com/stats-organization/github-stats-extended)
+[![shuaibird's GitHub stats](https://github-stats-extended.vercel.app/api?username=shuaibird&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
 ### Yoo, I'm shuaibird 👋
 
