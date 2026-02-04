@@ -1,4 +1,4 @@
-[![shuaibird's github stats](https://github-readme-stats.vercel.app/api?username=shuaibird&&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![shuaibird's GitHub stats](https://github-stats-extended.vercel.app/api?username=shuaibird)](https://github.com/stats-organization/github-stats-extended)
 
 ### Yoo, I'm shuaibird 👋
 
